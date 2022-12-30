@@ -5,3 +5,5 @@ My research interests lie at the intersection of parallel computing and resource
 - Resilience & reliability at Exascale
 - Scientific workflows management
 - Distributed Machine Learning on HPC systems
+
+You can find my recent publications on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=hL9eZlQAAAAJ&view_op=list_works&sortby=pubdate) profile!
