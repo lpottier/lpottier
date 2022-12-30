@@ -1,4 +1,4 @@
-Hi, I’m a computer scientist at the [Center for Applied Scientific Computing](https://computing.llnl.gov/casc). 
+Hi, I’m a computer scientist at the [LLNL Center for Applied Scientific Computing](https://computing.llnl.gov/casc). 
 
 My research interests lie at the intersection of parallel computing and resource management:
 - Scheduling problems in HPC and distributed computing
